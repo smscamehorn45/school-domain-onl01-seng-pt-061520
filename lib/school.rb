@@ -28,7 +28,7 @@ lass School
   nu_hash
 end 
   
-end 
+
 
 
 
